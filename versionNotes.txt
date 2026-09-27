@@ -1,0 +1,1 @@
+Back dated to work with the version of msdf-atlas-gen that I am using for Daedalus
